@@ -12,3 +12,26 @@ Interactive Analysis: Slicers for contract type, gender, and internet service al
 Key Metrics Highlighted: Displays overall churn numbers, monthly charges, tenure, and customer counts for rapid assessment.
 
 Business Impact: Insights uncover which customer groups are at highest risk, helping teams focus retention efforts where they matter most.
+Technologies Used
+Power BI (for dashboard creation and interactivity)
+
+Data Analysis & Visualization
+
+Exploratory Data Analysis (EDA)
+
+How to Use
+Open the .pbix Power BI project file or view the published dashboard (if available).
+
+Use the interactive slicers to filter and explore data by contract, gender, or internet services.
+
+Refer to the summary visualizations to identify high-risk segments and areas for business improvement.
+
+Key Takeaways
+Most churn occurs among "Month-to-month" contract customers.
+
+Electronic payment methods are predominant among churned customers.
+
+Average monthly charges and tenure distributions help highlight at-risk profiles.
+
+The dashboard enables proactive, targeted retention strategies.
+
